@@ -8,6 +8,8 @@ public class demoemployee {
 		
 		employee sarma = new employee();
 		
+		employee varma = new employee();
+		
 		kumar.salary = 10000;
 		kumar.bonus = 5000;
 		kumar.calSal();
