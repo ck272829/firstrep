@@ -18,7 +18,7 @@ public class demoemployee {
 				sarma.bonus = 5000;
  sarma.calSal(); 
 		
-		varma.salary = 20000;
+		varma.salary = 30000;
 		varma.bonus = 5000;
  		varma.calSal(); 
 	}
